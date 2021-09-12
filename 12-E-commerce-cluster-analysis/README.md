@@ -25,4 +25,5 @@ _____
 - - -
 ### Приложения
 [Презентация](https://disk.yandex.ru/i/6DMDP92Q-1F4mA) результатов исследования.
+
 Простой [дашборд](https://public.tableau.com/views/E_commerce_16295934614540/DashboardE_commerce?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) в Tableau Public.
