@@ -1,4 +1,5 @@
 ## Сегментация покупателей по профилю потребления
+##### Просмотр проекта доступен по [ссылке](https://nbviewer.jupyter.org/github/Irrichie/yandex-praktikum-projects/blob/d3d357cba799a6c3a6d721eac7c680ff7fd43c21/12-E-commerce-cluster-analysis/E-commerce%20cluster%20analysis.ipynb) 
 ### Исходные данные
 Данные интернет-магазина товаров для дома о заказах клиентов:
 - `date` — дата заказа;
@@ -25,6 +26,7 @@
 
 ### Приложения
 [Презентация](https://disk.yandex.ru/i/6DMDP92Q-1F4mA) результатов проекта.
+
 Простой [дашборд](https://public.tableau.com/views/E_commerce_16295934614540/DashboardE_commerce?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) в Tableu Public.
 
-
+##### Просмотр проекта доступен по [ссылке](https://nbviewer.jupyter.org/github/Irrichie/yandex-praktikum-projects/blob/d3d357cba799a6c3a6d721eac7c680ff7fd43c21/12-E-commerce-cluster-analysis/E-commerce%20cluster%20analysis.ipynb) 
