@@ -1,5 +1,5 @@
 ## Анализ рынка компьютерных игр
-#### Просмотр проекта доступен по [ссылке]
+#### Просмотр проекта доступен по [ссылке](https://nbviewer.jupyter.org/github/Irrichie/yandex-praktikum-projects/blob/2c25b309e12d1b728a02474bdb5d94a14587928b/04-Video-games-market-analysis/04-Video-games-market-analysis.ipynb)
 ### Исходные данные
 Данные из открытых источников о продажах игр, оценки пользователей и экспертов, жанры и платформы за 1985-2016 годы.
 
@@ -36,7 +36,7 @@
 - Проверка гипотезы о равенстве средних пользовательские рейтингов жанров Action и Sports.
 
 ### Используемые библиотеки
-**pandas, numpy, scipy, matplotlib, seaborn, plotly.express, statistics*
+*pandas, numpy, scipy, matplotlib, seaborn, plotly.express, statistics*
 
 ### Ход решения
 
@@ -57,4 +57,4 @@
 6. Если ориентироваться на американский и европейский рынки, то стоит обратить внимание на игры в жанрах Action и Shooter. Для японского рынка наиболее актуальны Role-Playing и Action.
 7. Ориентируясь на региональные предпочтения, стоит учитывать зависимость рейтинга ESRB и продаж. В Европе и Северной Америке популярны игры с рейтингом "M: Для взрослых" и "E: Для всех". В Японии подавляющее большинство продаваемых игр не имеют такого рейтинга.
 
-#### Просмотр проекта доступен по [ссылке]
+#### Просмотр проекта доступен по [ссылке](https://nbviewer.jupyter.org/github/Irrichie/yandex-praktikum-projects/blob/2c25b309e12d1b728a02474bdb5d94a14587928b/04-Video-games-market-analysis/04-Video-games-market-analysis.ipynb)
