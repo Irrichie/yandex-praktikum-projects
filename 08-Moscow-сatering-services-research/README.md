@@ -1,5 +1,5 @@
 ## Исследование рынка заведений общественного питания Москвы для принятия решения об открытии нового заведения
-#### Просмотр проекта доступен по [ссылке]()
+#### Просмотр проекта доступен по [ссылке](https://nbviewer.jupyter.org/github/Irrichie/yandex-praktikum-projects/blob/5a00d7dfca14ff4335ccb64c3e46f86ebe52e6cd/08-Moscow-сatering-services-research/08-Moscow-сatering-services-research.ipynb)
 ### Исходные данные
 Открытые данные о заведениях общественного питания в Москве.
 
@@ -39,4 +39,4 @@
 
 #### Приложение:
 ##### [Презентация](https://disk.yandex.ru/i/vU-i--eggYPREw) для инвестров
-#### Просмотр проекта доступен по [ссылке]()
+#### Просмотр проекта доступен по [ссылке](https://nbviewer.jupyter.org/github/Irrichie/yandex-praktikum-projects/blob/5a00d7dfca14ff4335ccb64c3e46f86ebe52e6cd/08-Moscow-сatering-services-research/08-Moscow-сatering-services-research.ipynb)
